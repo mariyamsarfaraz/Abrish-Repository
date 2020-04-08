@@ -27,7 +27,7 @@
   .nav-link{
     margin-left: 25px;
     padding-left: 25px;
-    font-size: 20px;
+    font-size: 18px;
   }
   .nav-link:hover{
     background:#ffc107!important;
@@ -211,6 +211,9 @@
 }
 }
 
-
+.footer{
+  background-color: #3c3e41;
+  color: #fff;
+}
 
 
